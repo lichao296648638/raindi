@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_activity_comm.xml.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/layout/activity_comm.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/menu_set.xml.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/menu/set.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_activity_set.xml.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/layout/activity_set.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_item_layout.xml.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/menu_comm.xml.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/menu/comm.xml"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_activity_comm.xml.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/layout/activity_comm.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/menu_comm.xml.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/menu/comm.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_item_layout.xml.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/menu_set.xml.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/menu/set.xml"
+    },
+    {
+        "merged": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/layout_activity_set.xml.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/layout/activity_set.xml"
+    },
+    {
+        "merged": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    }
+]

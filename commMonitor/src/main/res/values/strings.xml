@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CommMonitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Set">Set</string>
+    <string name="Clean">Clean</string>
+    <string name="Send">Send</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="commNumber">Comm Port:</string>
+    <string name="baudrate">Baudrate:</string>
+    <string name="cts">Cts:</string>
+    <string name="rts">Rts:</string>
+    <string name="block">block:</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

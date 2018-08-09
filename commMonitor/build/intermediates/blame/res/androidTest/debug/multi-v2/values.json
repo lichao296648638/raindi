@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/lichao/Desktop/raindi/commMonitor/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,209,249,287,325,361,414,463,510,551,593,643,680,733,770,829,1120",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25,28",
+                        "endColumns": "57,55,39,39,37,37,35,52,48,46,40,41,49,36,52,36,58,12,12",
+                        "endOffsets": "108,164,204,244,282,320,356,409,458,505,546,588,638,675,728,765,824,1115,1275"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/lichao/AndroidStudioProjects/HCCamera/commMonitor/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,209,249,287,325,361,414,463,510,551,593,643,680,733,770,829,1120",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25,28",
+                        "endColumns": "57,55,39,39,37,37,35,52,48,46,40,41,49,36,52,36,58,12,12",
+                        "endOffsets": "108,164,204,244,282,320,356,409,458,505,546,588,638,675,728,765,824,1115,1275"
+                    }
+                }
+            ]
+        }
+    ]
+}
